@@ -1,2 +1,2 @@
-@py  C:\Users\prono\MyPythonScripts\exchange.py %*
+@py  .\exchange.py %*
 @pause
