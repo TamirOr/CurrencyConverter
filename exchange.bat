@@ -1,2 +1,2 @@
-@py  .\exchange.py %*
+@py  /*exchange.py path here*/ %*
 @pause
